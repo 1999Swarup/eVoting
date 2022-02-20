@@ -11,7 +11,7 @@ When the voter enters his/her correct phone number then the otp is sent and it s
 c)Important Requirements :
 If there is a certain error in the verification process of the voter then the error message will be clearly displayed as an alert message.
 
-  2)Poll Secret Code Verification : -
+2) Poll Secret Code Verification : -
 
 a)Description and Priority :
 This will provide more safety to the voting process by verifying the exact poll that the voter wants to vote. 
