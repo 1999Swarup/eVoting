@@ -1,7 +1,3 @@
-"# eVotingApplication" 
-"# eVotingApplication" 
-"# eVoting" 
-
 1) Voter’s Details verification : -
 
 a)Description and Priority :
