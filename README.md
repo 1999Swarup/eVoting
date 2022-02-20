@@ -1,4 +1,4 @@
-
+Important Functionalities
 
 1) Voter’s Details verification : -
 
